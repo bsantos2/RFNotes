@@ -1,5 +1,7 @@
-# Helpful Identities
+# Helpful Math
 ## Euler's Formula
-$cos(\theta)=(e^(j\theta) + e^(-j\theta))/2$
-$sin(\theta)=(e^(j\theta) - e^(-j\theta))/2j$
-$cos(\theta)^2 = (1 + cos(2\theta))/2$
+\cos(\theta)=\frac{e^{j\theta}+e^{-j\theta}}{2}
+\sin(\theta)=\frac{e^{j\theta}-e^{-j\theta}}{2j}
+
+## Trigonometry
+\cos^2(\theta)=\frac{1+\cos(2\theta)}{2}
