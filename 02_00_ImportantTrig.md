@@ -1,6 +1,7 @@
 # Helpful Math
 ## Euler's Formula
 $\cos(\theta)=\frac{e^{j\theta}+e^{-j\theta}}{2}$
+\n
 $\sin(\theta)=\frac{e^{j\theta}-e^{-j\theta}}{2j}$
 
 ## Trigonometry
